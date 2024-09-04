@@ -13,7 +13,7 @@ body {
   text-decoration: none;
 }
 .logo .logo-web {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.3125em;
@@ -23,7 +23,7 @@ body {
   height: 21px;
 }
 .logo .logo-studio {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.3125em;
@@ -34,7 +34,7 @@ body {
 }
 .studio-nav {
   font-family: "Roboto", sans-serif;
-  font-weight: Medium;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
   color: #2e2f42;
@@ -52,7 +52,7 @@ body {
 }
 .portfolio-nav {
   font-family: "Roboto", sans-serif;
-  font-weight: Medium;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 2%;
@@ -71,7 +71,7 @@ body {
 
 .contacts-nav {
   font-family: "Roboto", sans-serif;
-  font-weight: Medium;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 2%;
@@ -90,7 +90,7 @@ body {
 
 .contact .link {
   text-decoration: none;
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
@@ -100,7 +100,7 @@ body {
 .contact .link:hover,
 .contact .link:focus {
   color: #404bbf;
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
@@ -116,10 +116,10 @@ body {
   align-content: center;
 }
 .hero-image > .section-title {
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   color: #ffffff;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 56px;
   line-height: 1.5em;
   letter-spacing: 2%;
@@ -130,8 +130,8 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
   border-radius: 4px;
-  font-family: inherit;
-  font-weight: medium;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 4%;
@@ -146,12 +146,14 @@ body {
 }
 
 .method-title {
-  font-weight: medium;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
   letter-spacing: 2%;
 }
 .method-text {
-  font-weight: regular;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 2%;
@@ -179,23 +181,24 @@ body {
 }
 .team-workers-title {
   text-align: center;
+  font-family: "Roboto", sans-serif;
   font-size: 36px;
-  font-weight: bold;
+  font-weight: 700;
   letter-spacing: 2%;
   line-height: 2.5em;
   color: #2e2f42;
 }
 .worker-name {
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-size: 20px;
-  font-weight: medium;
+  font-weight: 500;
   line-height: 1.5em;
   letter-spacing: 2%;
   text-align: center;
   color: #2e2f42;
 }
 .team-card p {
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
@@ -207,8 +210,8 @@ body {
   background-color: #ffffff;
 }
 .team-project .title {
-  font-family: inherit;
-  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
   font-size: 36px;
   line-height: 2.5em;
   letter-spacing: 2%;
@@ -222,14 +225,14 @@ body {
   height: 300px;
 }
 .project-title {
-  font-family: inherit;
-  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.5em;
   letter-spacing: 2% color #2e2f42;
 }
 .project-text {
-  font-family: inherit;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
@@ -248,7 +251,7 @@ body {
 }
 
 .footer-logo .web {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.3125em;
@@ -259,7 +262,7 @@ body {
 }
 
 .footer-logo .studio {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.3125em;
